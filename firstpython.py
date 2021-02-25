@@ -1,3 +1,3 @@
 #disply the output
 
-Print("New python file")
+Print("New python 2")
